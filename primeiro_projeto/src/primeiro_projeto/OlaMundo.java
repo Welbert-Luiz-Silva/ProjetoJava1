@@ -6,6 +6,7 @@ public class OlaMundo {
 		System.out.println("Olá Mundo!");
 		System.out.println("Verificação de codigo em JAVA");
 		System.out.println("Implementação de uma nova linha de teste");
+		System.out.println("Segundo teste");
 
 	}
 
